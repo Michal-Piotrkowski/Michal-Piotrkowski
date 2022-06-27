@@ -10,6 +10,7 @@
 :man_technologist: About Me 
 <br>
 I am a young developer from Poland.
+
 - :computer: I attend a technical school with an IT profile.
 
 - :zap: In my free time, I train hard in the gym.
