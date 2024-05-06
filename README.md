@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding"/>
 </div>
 <br>
-<p>I'm a student of Applied Computer Science at the Cracow University of Technology.</p>
+<p align="center">I'm a student of Applied Computer Science at the Cracow University of Technology.</p>
 <br>
 <br>
 <p align="center">
